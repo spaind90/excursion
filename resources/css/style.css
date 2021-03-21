@@ -18,7 +18,7 @@ body{
 }
 
 header{
-    padding: 2rem 0;
+    margin: 2rem 0;
     text-align: center;
 }
 
@@ -29,4 +29,15 @@ h1 {
     font-family: Verdana;
     font-weight: normal;
     color: white;
+}
+
+/* STILI DI CLASSI O DI ID */
+
+.paragrafo_excursion {
+    font-size: 1rem;
+    font-weight: normal;
+    font-family: Verdana;
+    text-decoration: underline;
+    color:aquamarine;
+    text-align: center;
 }
