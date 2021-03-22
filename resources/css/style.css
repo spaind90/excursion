@@ -39,8 +39,9 @@ figure{
     justify-content: center;
 }
 
-img {
+footer{
     width: 100%;
+    text-align: right;
 }
 
 /* STILI DI TESTO*/
@@ -90,4 +91,15 @@ article p {
 
 .img_container{
     width: 896px;
+}
+
+.camp {
+    width: 100%;
+    margin-bottom: 2rem;
+}
+
+footer p {
+    color: gray;
+    font-family: Verdana;
+    font-size: 1rem;
 }
